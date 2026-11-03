@@ -1,8 +1,10 @@
-# BÀI THỰC HÀNH BUỔI 2 - THIẾT KẾ WEB (LAB 2)
+# BÀI THỰC HÀNH BUỔI 2 - THIẾT KẾ WEB - LAB 2
 
-- **Họ và tên:** Sinh viên
+- **Họ và tên:** Lê Võ Đức Huy
 - **Mã số sinh viên (MSSV):** `6651071098`
 - **Tên Repository GitHub:** `6651071098-lab2-bat-dong-san`
+- **Link Website Vercel:** `https://batdongsan-three.vercel.app/`
+- **Link Video Demo:** `https://drive.google.com/file/d/1MgmJUHLKlZ-M1YmHR7B6_1r48U7lQfgf/view?usp=sharing`
 - **Chủ đề website ($D = 13$):** Bất động sản (EmeraldLand Real Estate)
 - **Màu chủ đạo ($C = 1$):** Emerald (`#059669`)
 - **Bộ 3 tính năng bắt buộc ($F = 8$):**
