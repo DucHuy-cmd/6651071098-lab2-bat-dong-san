@@ -17,6 +17,9 @@ export const PropertyCard: React.FC<PropertyCardProps> = ({ property }) => {
           src={property.image}
           alt={`Hình ảnh thực tế của bất động sản: ${property.title}`}
           loading="lazy"
+          decoding="async"
+          width="400"
+          height="250"
           className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
         />
 

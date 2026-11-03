@@ -1,3 +1,9 @@
+# Video files (exceeds GitHub 100MB limit)
+video/
+*.mp4
+*.mkv
+*.mov
+
 # Logs
 logs
 *.log
