@@ -1,0 +1,653 @@
+[
+  {
+    "id": "bds-001",
+    "title": "Căn hộ cao cấp Vinhomes Grand Park 2PN view công viên 36ha",
+    "price": 3250000000,
+    "location": "Đường Nguyễn Xiển, Phường Long Thạnh Mỹ, TP. Thủ Đức",
+    "district": "TP. Thủ Đức",
+    "city": "TP. Hồ Chí Minh",
+    "area": 69.5,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "propertyType": "Căn hộ",
+    "status": "Đang bán",
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Căn hộ tầng trung thoáng mát, nội thất bàn giao chuẩn cao cấp từ chủ đầu tư. Ban công rộng đón gió tự nhiên view trọn công viên ánh sáng 36ha. Tiện ích chuẩn resort với hồ bơi, sân tennis, trường học Vinschool.",
+    "features": ["Hồ bơi tràn viền", "Công viên 36ha", "Trường học Vinschool", "Bảo vệ 24/7", "Chỗ đậu ô tô"],
+    "agent": {
+      "name": "Nguyễn Văn Tuấn",
+      "phone": "0908123456",
+      "email": "tuan.nguyen@realestate.vn",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200&auto=format&fit=crop&q=80"
+    },
+    "createdAt": "2026-10-15"
+  },
+  {
+    "id": "bds-002",
+    "title": "Biệt thự song lập Thảo Điền ven sông Sài Gòn có hồ bơi riêng",
+    "price": 45000000000,
+    "location": "Đường Nguyễn Văn Hưởng, Phường Thảo Điền, TP. Thủ Đức",
+    "district": "TP. Thủ Đức",
+    "city": "TP. Hồ Chí Minh",
+    "area": 320,
+    "bedrooms": 5,
+    "bathrooms": 6,
+    "propertyType": "Biệt thự",
+    "status": "Đang bán",
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Biệt thự phong cách Địa Trung Hải sang trọng, sân vườn xanh mát và hồ bơi vô cực ngoài trời. Vị trí đắc địa tại khu Thảo Điền, cộng đồng cư dân quốc tế, an ninh biệt lập 24/7.",
+    "features": ["Hồ bơi riêng", "Sân vườn", "View sông", "Hầm rượu", "Gara 2 ô tô"],
+    "agent": {
+      "name": "Trần Thị Mai Lan",
+      "phone": "0912345678",
+      "email": "lan.tran@luxuryliving.vn",
+      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=200&auto=format&fit=crop&q=80"
+    },
+    "createdAt": "2026-10-18"
+  },
+  {
+    "id": "bds-003",
+    "title": "Nhà phố thương mại Shophouse Sala Đại Quang Minh mặt tiền Nguyễn Cơ Thạch",
+    "price": 78000000000,
+    "location": "Đại lộ Nguyễn Cơ Thạch, Khu đô thị Sala, TP. Thủ Đức",
+    "district": "TP. Thủ Đức",
+    "city": "TP. Hồ Chí Minh",
+    "area": 280,
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "propertyType": "Shophouse",
+    "status": "Đang bán",
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1577495508048-b635879837f1?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1577495508048-b635879837f1?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Vị trí vàng kinh doanh sầm uất tại trục tài chính Thủ Thiêm. Kết cấu 1 hầm, 4 tầng nổi và áp mái. Đang có hợp đồng thuê thương hiệu thời trang cao cấp 180 triệu/tháng.",
+    "features": ["Thang máy riêng", "Hầm đỗ xe", "Mặt tiền 8m", "Hợp đồng thuê sẵn", "Hệ thống PCCC tự động"],
+    "agent": {
+      "name": "Lê Hoàng Quân",
+      "phone": "0987654321",
+      "email": "quan.le@thuthiemland.vn",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&auto=format&fit=crop&q=80"
+    },
+    "createdAt": "2026-10-20"
+  },
+  {
+    "id": "bds-004",
+    "title": "Căn hộ Masteri Centre Point 1PN+1 nội thất phong cách Bắc Âu",
+    "price": 2850000000,
+    "location": "Đại lộ Vành Đai 3, Phường Long Bình, TP. Thủ Đức",
+    "district": "TP. Thủ Đức",
+    "city": "TP. Hồ Chí Minh",
+    "area": 53.2,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "propertyType": "Căn hộ",
+    "status": "Đang bán",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Căn hộ thiết kế hiện đại, đầy đủ tiện nghi, phù hợp chuyên gia trẻ và cặp đôi. Khu compound khép kín với hệ thống tiện ích đặc quyền chuẩn quốc tế Marriott.",
+    "features": ["Phòng gym quốc tế", "Sân chơi trẻ em", "Hồ bơi phi thuyền", "Thư viện sinh hoạt"],
+    "agent": {
+      "name": "Nguyễn Văn Tuấn",
+      "phone": "0908123456",
+      "email": "tuan.nguyen@realestate.vn",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200&auto=format&fit=crop&q=80"
+    },
+    "createdAt": "2026-10-22"
+  },
+  {
+    "id": "bds-005",
+    "title": "Nhà phố liền kề The Manor Central Park mặt đường Hoàng Mai",
+    "price": 18500000000,
+    "location": "Đường Nguyễn Xiển, Đại Kim, Hoàng Mai",
+    "district": "Hoàng Mai",
+    "city": "Hà Nội",
+    "area": 120,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "propertyType": "Nhà phố",
+    "status": "Đang bán",
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Nhà phố 4 tầng thiết kế 2 mặt tiền thông thoáng, vừa ở vừa kinh doanh lý tưởng. Liền kề công viên Chu Văn An 100ha, môi trường sống trong lành.",
+    "features": ["2 mặt tiền", "Gần công viên", "Khu đô thị sinh thái", "Bảo vệ 24/7"],
+    "agent": {
+      "name": "Phạm Thị Hương",
+      "phone": "0933112233",
+      "email": "huong.pham@capitalhome.vn",
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=200&auto=format&fit=crop&q=80"
+    },
+    "createdAt": "2026-10-23"
+  },
+  {
+    "id": "bds-006",
+    "title": "Penthouse duplex The River Thủ Thiêm view trực diện sông Sài Gòn",
+    "price": 68000000000,
+    "location": "Đại lộ Vòng Cung, Phường An Khánh, TP. Thủ Đức",
+    "district": "TP. Thủ Đức",
+    "city": "TP. Hồ Chí Minh",
+    "area": 420,
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "propertyType": "Căn hộ",
+    "status": "Đang bán",
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Căn Penthouse thông tầng đỉnh cao tại bán đảo Thủ Thiêm. Chiều cao trần 6.5m đón trọn tầm nhìn 360 độ skyline Quận 1 và sông Sài Gòn thơ mộng.",
+    "features": ["Hồ bơi riêng trên cao", "Sân vườn Babylon", "Thang máy thẻ từ riêng", "Nội thất nhập khẩu Ý"],
+    "agent": {
+      "name": "Trần Thị Mai Lan",
+      "phone": "0912345678",
+      "email": "lan.tran@luxuryliving.vn",
+      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=200&auto=format&fit=crop&q=80"
+    },
+    "createdAt": "2026-10-25"
+  },
+  {
+    "id": "bds-007",
+    "title": "Đất nền dự án KDC Phú Nhuận Quận 9 sổ đỏ trao tay",
+    "price": 7500000000,
+    "location": "Đường Đỗ Xuân Hợp, Phường Phước Long B, TP. Thủ Đức",
+    "district": "TP. Thủ Đức",
+    "city": "TP. Hồ Chí Minh",
+    "area": 140,
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "propertyType": "Đất nền",
+    "status": "Đang bán",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Lô đất đẹp vuông vức 7x20m, đường nhựa 12m có vỉa hè cây xanh. Pháp lý chuẩn sổ hồng cá nhân, xây dựng tự do. Khu dân cư văn minh hiện hữu.",
+    "features": ["Sổ đỏ chính chủ", "Hạ tầng hoàn chỉnh", "Đường 12m", "Xây dựng tự do"],
+    "agent": {
+      "name": "Lê Hoàng Quân",
+      "phone": "0987654321",
+      "email": "quan.le@thuthiemland.vn",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&auto=format&fit=crop&q=80"
+    },
+    "createdAt": "2026-10-26"
+  },
+  {
+    "id": "bds-008",
+    "title": "Căn hộ dịch vụ cao cấp 3PN Saigon Pearl Quận Bình Thạnh",
+    "price": 6200000000,
+    "location": "92 Nguyễn Hữu Cảnh, Phường 22, Quận Bình Thạnh",
+    "district": "Quận Bình Thạnh",
+    "city": "TP. Hồ Chí Minh",
+    "area": 135,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "propertyType": "Căn hộ",
+    "status": "Đang bán",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Căn góc 3 phòng ngủ đầy đủ ánh sáng tự nhiên. Chỉ mất 5 phút di chuyển vào trung tâm Quận 1. Đầy đủ tiện ích nội khu: trường quốc tế ISSP, siêu thị, nhà hàng ven sông.",
+    "features": ["Bến du thuyền", "Hồ bơi tiêu chuẩn Olympic", "Trường học quốc tế", "Phòng gym"],
+    "agent": {
+      "name": "Nguyễn Văn Tuấn",
+      "phone": "0908123456",
+      "email": "tuan.nguyen@realestate.vn",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200&auto=format&fit=crop&q=80"
+    },
+    "createdAt": "2026-10-27"
+  },
+  {
+    "id": "bds-009",
+    "title": "Biệt thự lâu đài phong cách Cổ điển Chateau Phú Mỹ Hưng Quận 7",
+    "price": 95000000000,
+    "location": "Khu Chateau, Phường Tân Phú, Quận 7",
+    "district": "Quận 7",
+    "city": "TP. Hồ Chí Minh",
+    "area": 510,
+    "bedrooms": 6,
+    "bathrooms": 7,
+    "propertyType": "Biệt thự",
+    "status": "Đang bán",
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Tuyệt tác biệt thự ven sông dành riêng cho giới thượng lưu. Thiết kế phong cách quý tộc châu Âu với sân vườn nhiệt đới rộng lớn, mật độ xây dựng chỉ 19%.",
+    "features": ["Khu compound biệt lập", "Bến du thuyền riêng", "Sân tennis nội khu", "An ninh 3 lớp"],
+    "agent": {
+      "name": "Trần Thị Mai Lan",
+      "phone": "0912345678",
+      "email": "lan.tran@luxuryliving.vn",
+      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=200&auto=format&fit=crop&q=80"
+    },
+    "createdAt": "2026-10-28"
+  },
+  {
+    "id": "bds-010",
+    "title": "Nhà phố cổ mặt tiền Hàng Bông Hoàn Kiếm kinh doanh sầm uất",
+    "price": 52000000000,
+    "location": "Phố Hàng Bông, Phường Hàng Gai, Quận Hoàn Kiếm",
+    "district": "Quận Hoàn Kiếm",
+    "city": "Hà Nội",
+    "area": 95,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "propertyType": "Nhà phố",
+    "status": "Đang bán",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Nhà phố trung tâm phố cổ Hà Nội, cách Hồ Hoàn Kiếm 300m. Mặt tiền đắt giá phù hợp kinh doanh khách sạn boutique, spa hoặc thời trang cao cấp.",
+    "features": ["Vị trí vàng phố cổ", "Dòng tiền thuê cao", "Sổ đỏ lâu dài", "Mặt tiền 5.5m"],
+    "agent": {
+      "name": "Phạm Thị Hương",
+      "phone": "0933112233",
+      "email": "huong.pham@capitalhome.vn",
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=200&auto=format&fit=crop&q=80"
+    },
+    "createdAt": "2026-10-29"
+  },
+  {
+    "id": "bds-011",
+    "title": "Căn hộ Eco Green Saigon 2PN Quận 7 view công viên Hương Tràm",
+    "price": 3950000000,
+    "location": "Đại lộ Nguyễn Văn Linh, Phường Tân Thuận Tây, Quận 7",
+    "district": "Quận 7",
+    "city": "TP. Hồ Chí Minh",
+    "area": 71,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "propertyType": "Căn hộ",
+    "status": "Đang bán",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1567496898669-ee935f5f647a?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1567496898669-ee935f5f647a?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Dự án xanh đạt chứng chỉ tiêu chuẩn công trình xanh EDGE. Trang bị kính hộp Solar Control cản tia UV, thiết bị vệ sinh Duravit, máy lạnh âm trần Daikin.",
+    "features": ["Khách sạn Hyatt 69 tầng", "Công viên 22ha", "Khu thể thao phức hợp", "Trung tâm sự kiện"],
+    "agent": {
+      "name": "Lê Hoàng Quân",
+      "phone": "0987654321",
+      "email": "quan.le@thuthiemland.vn",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&auto=format&fit=crop&q=80"
+    },
+    "createdAt": "2026-10-30"
+  },
+  {
+    "id": "bds-012",
+    "title": "Đất biệt thự sinh thái Đảo Sen Long Phước view sông Đồng Nai",
+    "price": 16500000000,
+    "location": "Đường Long Phước, Phường Long Phước, TP. Thủ Đức",
+    "district": "TP. Thủ Đức",
+    "city": "TP. Hồ Chí Minh",
+    "area": 550,
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "propertyType": "Đất nền",
+    "status": "Đang bán",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Thửa đất vườn ven sông rộng rãi, thổ nhưỡng tươi tốt, khí hậu mát mẻ quanh năm. Phù hợp xây dựng biệt thự nhà vườn nghỉ dưỡng cuối tuần.",
+    "features": ["View sông tự nhiên", "Đường ô tô tới tận nơi", "Sổ hồng riêng", "Không khí trong lành"],
+    "agent": {
+      "name": "Nguyễn Văn Tuấn",
+      "phone": "0908123456",
+      "email": "tuan.nguyen@realestate.vn",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200&auto=format&fit=crop&q=80"
+    },
+    "createdAt": "2026-10-31"
+  },
+  {
+    "id": "bds-013",
+    "title": "Căn hộ cao cấp The Sun Avenue Mai Chí Thọ 3PN đầy đủ nội thất",
+    "price": 4600000000,
+    "location": "28 Mai Chí Thọ, Phường An Phú, TP. Thủ Đức",
+    "district": "TP. Thủ Đức",
+    "city": "TP. Hồ Chí Minh",
+    "area": 90,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "propertyType": "Căn hộ",
+    "status": "Đang cho thuê",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1502005229762-ee1b2b8ba98f?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1502005229762-ee1b2b8ba98f?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Căn hộ nằm ngay trục đại lộ Mai Chí Thọ, kết nối hầm Thủ Thiêm chỉ 8 phút. Khu phố shophouse mua sắm sầm uất phía dưới, 4 hồ bơi tràn chân mây.",
+    "features": ["Hồ bơi vô cực", "Phố thương mại 2km", "Sân bóng bàn, gym", "Hệ thống thẻ từ từng tầng"],
+    "agent": {
+      "name": "Lê Hoàng Quân",
+      "phone": "0987654321",
+      "email": "quan.le@thuthiemland.vn",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&auto=format&fit=crop&q=80"
+    },
+    "createdAt": "2026-11-01"
+  },
+  {
+    "id": "bds-014",
+    "title": "Biệt thự đơn lập Gamuda Gardens Hoàng Mai phong cách nhiệt đới",
+    "price": 36000000000,
+    "location": "Khu đô thị Gamuda Gardens, Yên Sở, Hoàng Mai",
+    "district": "Hoàng Mai",
+    "city": "Hà Nội",
+    "area": 300,
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "propertyType": "Biệt thự",
+    "status": "Đang bán",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Biệt thự 4 mặt thoáng chan hòa ánh sáng và cây xanh. Công viên Yên Sở bao bọc mang lại bầu không khí trong lành bậc nhất thủ đô.",
+    "features": ["Câu lạc bộ Gamuda Club", "Hồ bơi nước mặn", "Trường quốc tế SIS", "Sân golf mini"],
+    "agent": {
+      "name": "Phạm Thị Hương",
+      "phone": "0933112233",
+      "email": "huong.pham@capitalhome.vn",
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=200&auto=format&fit=crop&q=80"
+    },
+    "createdAt": "2026-11-01"
+  },
+  {
+    "id": "bds-015",
+    "title": "Shophouse khối đế chung cư Vinhomes Central Park Quận Bình Thạnh",
+    "price": 42000000000,
+    "location": "208 Nguyễn Hữu Cảnh, Phường 22, Quận Bình Thạnh",
+    "district": "Quận Bình Thạnh",
+    "city": "TP. Hồ Chí Minh",
+    "area": 160,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "propertyType": "Shophouse",
+    "status": "Đang bán",
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Vị trí đối diện sảnh chính tòa tháp Landmark 81, lượng khách qua lại đông đúc suốt ngày đêm. Phù hợp mở nhà hàng F&B, quán cafe thương hiệu lớn.",
+    "features": ["Liền kề Landmark 81", "Công viên bờ sông 14ha", "Bãi đỗ xe thông minh", "Khách hàng dồi dào"],
+    "agent": {
+      "name": "Trần Thị Mai Lan",
+      "phone": "0912345678",
+      "email": "lan.tran@luxuryliving.vn",
+      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=200&auto=format&fit=crop&q=80"
+    },
+    "createdAt": "2026-11-01"
+  },
+  {
+    "id": "bds-016",
+    "title": "Căn hộ chung cư cao cấp Discovery Complex Cầu Giấy 2PN ban công rộng",
+    "price": 4900000000,
+    "location": "302 Cầu Giấy, Dịch Vọng, Quận Cầu Giấy",
+    "district": "Quận Cầu Giấy",
+    "city": "Hà Nội",
+    "area": 99,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "propertyType": "Căn hộ",
+    "status": "Đang bán",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1515263487990-61b07816b324?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1515263487990-61b07816b324?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Tòa tháp đôi biểu tượng cửa ngõ phía Tây Hà Nội. Kết nối trực tiếp với tuyến đường sắt đô thị trên cao Ga Chùa Hà tại tầng 2 trung tâm thương mại.",
+    "features": ["Kết nối Metro", "Đại siêu thị Lotte", "Rạp chiếu phim BHD", "Bể bơi 4 mùa 400m2"],
+    "agent": {
+      "name": "Phạm Thị Hương",
+      "phone": "0933112233",
+      "email": "huong.pham@capitalhome.vn",
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=200&auto=format&fit=crop&q=80"
+    },
+    "createdAt": "2026-11-02"
+  },
+  {
+    "id": "bds-017",
+    "title": "Nhà phố tân cổ điển đường Lê Văn Sỹ Quận 3 có thang máy",
+    "price": 24500000000,
+    "location": "Hẻm xe tải tránh Lê Văn Sỹ, Phường 14, Quận 3",
+    "district": "Quận 3",
+    "city": "TP. Hồ Chí Minh",
+    "area": 110,
+    "bedrooms": 5,
+    "bathrooms": 6,
+    "propertyType": "Nhà phố",
+    "status": "Đang bán",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1513694203232-719a280e022f?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1513694203232-719a280e022f?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Nhà xây mới 5 tầng kiên cố, thang máy nhập khẩu tải trọng 450kg. Vị trí trung tâm Quận 3 giáp Phú Nhuận, thuận tiện mở phòng khám hoặc văn phòng công ty.",
+    "features": ["Thang máy gia đình", "Gara xe 7 chỗ", "Sân thượng BBQ", "Cửa khóa vân tay"],
+    "agent": {
+      "name": "Nguyễn Văn Tuấn",
+      "phone": "0908123456",
+      "email": "tuan.nguyen@realestate.vn",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200&auto=format&fit=crop&q=80"
+    },
+    "createdAt": "2026-11-02"
+  },
+  {
+    "id": "bds-018",
+    "title": "Đất mặt tiền kinh doanh Nguyễn Hữu Thọ Nhà Bè gần KĐT GS Metrocity",
+    "price": 19500000000,
+    "location": "Mặt tiền đường Nguyễn Hữu Thọ, Phước Kiển, Nhà Bè",
+    "district": "Huyện Nhà Bè",
+    "city": "TP. Hồ Chí Minh",
+    "area": 210,
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "propertyType": "Đất nền",
+    "status": "Đang bán",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Vị trí đối diện siêu đô thị Zeitgeist Nhà Bè. Mặt tiền 8.5m lý tưởng xây tòa nhà văn phòng, showroom trưng bày hoặc kinh doanh dịch vụ.",
+    "features": ["Mặt tiền 60m trục chính", "Quy hoạch đất ở", "Tiềm năng sinh lời cao", "Gần nút giao Nguyễn Văn Linh"],
+    "agent": {
+      "name": "Lê Hoàng Quân",
+      "phone": "0987654321",
+      "email": "quan.le@thuthiemland.vn",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&auto=format&fit=crop&q=80"
+    },
+    "createdAt": "2026-11-02"
+  },
+  {
+    "id": "bds-019",
+    "title": "Căn hộ studio Sun Marina Town Hạ Long view trọn Vịnh di sản",
+    "price": 2650000000,
+    "location": "Bãi Cháy, TP. Hạ Long",
+    "district": "Bãi Cháy",
+    "city": "Quảng Ninh",
+    "area": 38.5,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "propertyType": "Căn hộ",
+    "status": "Đang bán",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Căn hộ mặt biển nhìn thẳng ra vịnh Hạ Long và bến du thuyền quốc tế. Vận hành cho thuê du lịch sinh dòng tiền ổn định quanh năm.",
+    "features": ["View kỳ quan Vịnh Hạ Long", "Bến du thuyền quốc tế", "Bãi tắm riêng", "Bể bơi vô cực 1000m2"],
+    "agent": {
+      "name": "Phạm Thị Hương",
+      "phone": "0933112233",
+      "email": "huong.pham@capitalhome.vn",
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=200&auto=format&fit=crop&q=80"
+    },
+    "createdAt": "2026-11-02"
+  },
+  {
+    "id": "bds-020",
+    "title": "Biệt thự biển Premier Village Đà Nẵng Resort có lối đi riêng ra biển",
+    "price": 58000000000,
+    "location": "Đường Võ Nguyên Giáp, Phường Mỹ An, Quận Ngũ Hành Sơn",
+    "district": "Ngũ Hành Sơn",
+    "city": "Đà Nẵng",
+    "area": 380,
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "propertyType": "Biệt thự",
+    "status": "Đang bán",
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Biệt thự nghỉ dưỡng 5 sao được quản lý bởi tập đoàn AccorHotels. Bãi cát trắng mịn riêng tư, hồ bơi tràn biển mang đến trải nghiệm nghỉ dưỡng đích thực.",
+    "features": ["Quản lý bởi Accor", "Lối ra bãi biển riêng", "Chia sẻ doanh thu 85/15", "Đêm nghỉ miễn phí hằng năm"],
+    "agent": {
+      "name": "Trần Thị Mai Lan",
+      "phone": "0912345678",
+      "email": "lan.tran@luxuryliving.vn",
+      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=200&auto=format&fit=crop&q=80"
+    },
+    "createdAt": "2026-11-02"
+  },
+  {
+    "id": "bds-021",
+    "title": "Căn hộ duplex Sky Oasis Ecopark tràn ngập cây xanh tầng cao",
+    "price": 4300000000,
+    "location": "Phân khu Rừng Cọ, Khu đô thị Ecopark",
+    "district": "Văn Giang",
+    "city": "Hưng Yên",
+    "area": 105,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "propertyType": "Căn hộ",
+    "status": "Đang bán",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1502672023488-70e25813eb80?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1502672023488-70e25813eb80?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Căn hộ thiết kế vườn treo Babylon trên cao, đón không khí tươi mát của đại đô thị xanh Ecopark triệu cây. Bể bơi vô cực trên tầng 41 ngắm toàn cảnh hồ Thiên Nga.",
+    "features": ["Hồ Thiên Nga 50ha", "Bể bơi chân mây tầng 41", "Phố đi bộ Hàn Quốc 2.5km", "Trường Quốc tế Chadwick"],
+    "agent": {
+      "name": "Phạm Thị Hương",
+      "phone": "0933112233",
+      "email": "huong.pham@capitalhome.vn",
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=200&auto=format&fit=crop&q=80"
+    },
+    "createdAt": "2026-11-03"
+  },
+  {
+    "id": "bds-022",
+    "title": "Shophouse phố đi bộ Carnaby The Manor Crown Huế",
+    "price": 14200000000,
+    "location": "Đại lộ Tố Hữu, Phường Xuân Phú, TP. Huế",
+    "district": "TP. Huế",
+    "city": "Thừa Thiên Huế",
+    "area": 145,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "propertyType": "Shophouse",
+    "status": "Đang bán",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1512915922686-57c11dde9b6b?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1512915922686-57c11dde9b6b?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Tuyến phố thương mại phong cách London đầu tiên tại Cố đô. Thiết kế kiến trúc cổ điển quý phái, trung tâm hành chính mới của tỉnh Thừa Thiên Huế.",
+    "features": ["Phố đi bộ thương mại", "Đài phun nước ánh sáng", "Khu mua sắm sầm uất", "Sổ đỏ vĩnh viễn"],
+    "agent": {
+      "name": "Lê Hoàng Quân",
+      "phone": "0987654321",
+      "email": "quan.le@thuthiemland.vn",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&auto=format&fit=crop&q=80"
+    },
+    "createdAt": "2026-11-03"
+  },
+  {
+    "id": "bds-023",
+    "title": "Nhà vườn sinh thái Củ Chi ven sông Sài Gòn vườn cây ăn trái",
+    "price": 8900000000,
+    "location": "Đường Tỉnh lộ 7, Xã An Nhơn Tây, Huyện Củ Chi",
+    "district": "Huyện Củ Chi",
+    "city": "TP. Hồ Chí Minh",
+    "area": 850,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "propertyType": "Nhà phố",
+    "status": "Đang bán",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1588880331179-bc9b93a8cb5e?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1588880331179-bc9b93a8cb5e?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Khuôn viên nhà vườn thoáng đãng với hồ cá Koi, vườn bưởi da xanh và sầu riêng sum suê. Nơi an cư tịnh dưỡng cuối tuần lý tưởng chỉ cách trung tâm 1 giờ chạy xe.",
+    "features": ["Hồ cá Koi Nhật", "Vườn cây ăn trái", "Bờ kè ven sông", "Nhà gỗ truyền thống"],
+    "agent": {
+      "name": "Nguyễn Văn Tuấn",
+      "phone": "0908123456",
+      "email": "tuan.nguyen@realestate.vn",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200&auto=format&fit=crop&q=80"
+    },
+    "createdAt": "2026-11-03"
+  },
+  {
+    "id": "bds-024",
+    "title": "Đất thổ cư mặt tiền biển Mỹ Khê Đà Nẵng xây dựng khách sạn",
+    "price": 88000000000,
+    "location": "Đường Võ Nguyên Giáp, Phường Phước Mỹ, Quận Sơn Trà",
+    "district": "Quận Sơn Trà",
+    "city": "Đà Nẵng",
+    "area": 400,
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "propertyType": "Đất nền",
+    "status": "Đang bán",
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Lô góc 2 mặt tiền cực hiếm trên cung đường biển đẹp nhất hành tinh. Chỉ tiêu xây dựng khách sạn cao cấp 22 tầng, bãi tắm Mỹ Khê ngay trước mặt.",
+    "features": ["Mặt tiền biển tỷ đô", "Chỉ tiêu xây 22 tầng", "Sổ đỏ sở hữu lâu dài", "Góc 2 mặt tiền lớn"],
+    "agent": {
+      "name": "Trần Thị Mai Lan",
+      "phone": "0912345678",
+      "email": "lan.tran@luxuryliving.vn",
+      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=200&auto=format&fit=crop&q=80"
+    },
+    "createdAt": "2026-11-03"
+  }
+]
